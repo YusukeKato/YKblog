@@ -95,15 +95,15 @@ body {
     /* 画像 */
     .position_image {
         position: fixed;
-        top: 46%;
-        left: 65%;
+        top: 44%;
+        left: 58%;
         margin: 0;
         width: 100%;
     }
 
     .position_image2 {
         position: fixed;
-        top: 46%;
+        top: 50%;
         left: 4%;
         margin: 0;
         width: 100%;
