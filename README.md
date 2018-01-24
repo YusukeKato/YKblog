@@ -1,7 +1,5 @@
 # YKblog
 
-blog
-
 ## blog URL
 
 ### https://YusukeKato.github.io/YKblog/
