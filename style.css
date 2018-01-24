@@ -47,7 +47,7 @@ body {
     /* 記事を囲むbox1 */
     .box1 {
         width: 40%;
-        border: 8px double #DDD;
+        border: 12px double #BBB;
         margin: 2em 0;
         padding: 2em;
     }
@@ -91,7 +91,7 @@ body {
 
     .box1 {
         width: 80%;
-        border: 8px double #DDD;
+        border: 10px double #BBB;
         margin: 1em 0;
         padding: 1em;
     }
