@@ -95,7 +95,7 @@ body {
     /* 画像 */
     .position_image {
         position: fixed;
-        top: 50%;
+        top: 46%;
         left: 65%;
         margin: 0;
         width: 100%;
@@ -103,7 +103,7 @@ body {
 
     .position_image2 {
         position: fixed;
-        top: 50%;
+        top: 46%;
         left: 4%;
         margin: 0;
         width: 100%;
@@ -186,10 +186,10 @@ body {
     }
 
     .position_image {
-        padding-left: 30%;
+        padding-left: 35%;
     }
 
     .position_image2 {
-        padding-left: 30%;
+        padding-left: 35%;
     }
 }
