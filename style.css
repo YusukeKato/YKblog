@@ -1,0 +1,120 @@
+@charset "utf-8";
+
+/* PCとスマホで分ける */
+
+/* PCとスマホで共有 */
+body {
+    font-family: sans-serif;
+    width: 96%;
+    background-color: #FFF;
+}
+
+/* ページトップに固定 */
+#fixed_top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #CCC;
+    color: #FFF; 
+}
+
+.header {
+    color: #222;
+}
+
+.footer {
+    text-align: center;
+    color: #222;
+}
+
+.title {
+    text-align: center;
+}
+
+.hr1 {
+    background-color: #88C;
+}
+
+.space {
+    padding-bottom: 10px;
+}
+
+/* PC用 */
+@media screen and (min-width: 480px) {
+
+    /* 記事を囲むbox1 */
+    .box1 {
+        width: 40%;
+        border: 4px double #DDD;
+        margin: 2em 0;
+        padding: 2em;
+    }
+
+    /* box1を真ん中にそろえる */
+    .position_index1 {
+        padding-left: 35%;
+    }
+
+    /* 自己紹介(PC) */
+    .box2 {
+        width: 20%;
+        border: 6px solid #DDD;
+        margin: 1em 0;
+        padding: 1em;
+    }
+
+    .position_about {
+        position: fixed;
+        top: 20%;
+        left: 4%;
+        margin: 0;
+        width: 100%;
+    }
+
+    /* 記事一覧(PC) */
+    .position_AllArticle {
+        position: fixed;
+        top: 20%;
+        left: 72%;
+        margin: 0;
+        width: 100%;
+    }
+}
+
+/* スマホ用 */
+@media screen and (max-width: 480px) {
+    p {
+        font-size: 12px;
+    }
+
+    .box1 {
+        width: 80%;
+        border: 4px double #DDD;
+        margin: 1em 0;
+        padding: 1em;
+    }
+
+    .position_index1 {
+        padding-left: 5%;
+    }
+
+    /* 自己紹介(PC) */
+    .box2 {
+        width: 80%;
+        border: 4px solid #DDD;
+        margin: 1em 0;
+        padding: 1em;
+    }
+
+    .position_about {
+        position: 0;
+        padding-left: 5%;
+    }
+
+    .position_AllArticle {
+        position: 0;
+        padding-left: 5%;
+    }
+}
