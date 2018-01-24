@@ -2,7 +2,9 @@
 
 blog
 
-[YKblog](https://YusukeKato.github.io/YKblog/)
+## blog URL
+
+### https://YusukeKato.github.io/YKblog/
 
 # LICENSE
 
