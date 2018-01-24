@@ -150,6 +150,16 @@ body {
     .position_image2 {
         padding-left: 35%;
     }
+
+    .favi {
+        width: 80%;
+        height: 80%;
+    }
+    
+    .favi2 {
+        width: 80%;
+        height: 80%;
+    }
 }
 
 /* スマホ用 */
@@ -191,5 +201,15 @@ body {
 
     .position_image2 {
         padding-left: 35%;
+    }
+
+    .favi {
+        width: 80%;
+        height: 80%;
+    }
+    
+    .favi2 {
+        width: 80%;
+        height: 80%;
     }
 }
