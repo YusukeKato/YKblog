@@ -42,7 +42,7 @@ body {
 }
 
 /* PC用 */
-@media screen and (min-width: 960px) {
+@media screen and (min-width: 1440px) {
 
     /* 記事を囲むbox1 */
     .box1 {
@@ -84,7 +84,7 @@ body {
 }
 
 /* スマホ用 */
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 1440px) {
     p {
         font-size: 12px;
     }
