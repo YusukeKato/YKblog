@@ -67,7 +67,7 @@ body {
 
     .position_about {
         position: fixed;
-        top: 20%;
+        top: 14%;
         left: 4%;
         margin: 0;
         width: 100%;
@@ -76,7 +76,7 @@ body {
     /* 記事一覧(PC) */
     .position_AllArticle {
         position: fixed;
-        top: 20%;
+        top: 14%;
         left: 72%;
         margin: 0;
         width: 100%;
