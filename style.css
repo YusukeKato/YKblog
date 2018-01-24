@@ -97,7 +97,7 @@ body {
     }
 
     .position_index1 {
-        padding-left: 5%;
+        padding-left: 7%;
     }
 
     /* 自己紹介) */
@@ -110,11 +110,11 @@ body {
 
     .position_about {
         position: 0;
-        padding-left: 10%;
+        padding-left: 7%;
     }
 
     .position_AllArticle {
         position: 0;
-        padding-left: 10%;
+        padding-left: 7%;
     }
 }
