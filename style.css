@@ -52,7 +52,7 @@ body {
 }
 
 /* PC用 */
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1200px) {
 
     /* 記事を囲むbox1 */
     .box1 {
@@ -111,7 +111,7 @@ body {
 }
 
 /* iPad */
-@media screen and (min-width: 720px) and (max-width: 1440px) {
+@media screen and (min-width: 720px) and (max-width: 1200px) {
     p {
         font-size: 14px;
     }
